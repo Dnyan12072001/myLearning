@@ -1,1 +1,5 @@
+What is Glide Record:
+-> Glide Record is a most commanly used & importsnt API in ServiceNow.
+-> Special Class & native javascript class mainly executed on server side.
+-> Glide Record is used to perform CURD opertion insetd of writing SQL queries.
 
